@@ -1,0 +1,46 @@
+{
+  "heroName": "John",
+  "heroNickname": "Doe",
+  "specializations": [],
+  "faction": "",
+  "rarity": "",
+  "skills": [
+    {
+      "slot": 1,
+      "skillName": "History 101",
+      "skillDescriptionBrief": "",
+      "skillDetails": []
+    },
+    {
+      "slot": 2,
+      "skillName": "History 101",
+      "skillDescriptionBrief": "",
+      "skillDetails": []
+    },
+    {
+      "slot": 3,
+      "skillName": "History 101",
+      "skillDescriptionBrief": "",
+      "skillDetails": []
+    },
+    {
+      "slot": 4,
+      "skillName": "History 101",
+      "skillDescriptionBrief": "",
+      "skillDetails": []
+    },
+    {
+      "slot": 5,
+      "skillName": "History 101",
+      "skillDescriptionBrief": "",
+      "skillDetails": []
+    }
+  ],
+  "otherDetails": {
+    "gender": "123 Main St",
+    "race": "Anytown",
+    "homeland": "12345",
+    "likes": "",
+    "dislikes": ""
+  }
+}

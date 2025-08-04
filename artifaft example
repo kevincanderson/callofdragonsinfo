@@ -1,0 +1,14 @@
+                <img src="" alt="" id="hero-artifact-image" class="hero-artifact-image">
+                <h3 id="hero-artifact-name" class="hero-artifact-name">Springblades</h3>
+                <p id="hero-artifact-specializations" class="hero-artifact-specializations">Cavalry | PvP | Assault</p>
+                <p id="hero-artifact-buff" class="hero-artifact-buff">Cavalry Unit ATK +5%</p>
+                <p id="hero-artifact-buff" class="hero-artifact-buff">Legion ATK +5%</p>
+                <p id="hero-artifact-buff" class="hero-artifact-buff">Damage Taken -5%</p>
+                <p id="hero-artifact-buff" class="hero-artifact-buff">Damage Dealt +5%</p>
+                <h4 id="hero-artifact-ability" class="hero-artifact-ability">Lvl 5 Cyclone Blade</h4>
+                <p id="hero-artifact-cooldown" class="hero-artifact-cooldown">
+                    Cooldown: 1m 30s
+                </p>
+                                <p id="hero-artifact-ragecost" class="hero-artifact-ragecost">
+                    Rage Cost: 600
+                </p>

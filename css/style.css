@@ -1,0 +1,54 @@
+/* font-family: "Montserrat", sans-serif;
+font-family: "Merriweather", serif;
+font-family: "Roboto", sans-serif; */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+  font-family: "Montserrat", sans-serif;  
+  font-size: 1.25rem;
+  line-height: 1.3;
+  background-color: #ececec;
+  color: #333;
+}
+
+header {
+    height: 100px;
+    margin: 1rem 0;
+}
+
+.divider {
+    width: 75%;
+    border-bottom: 1px solid black;
+    margin: 1rem auto;
+}
+
+.hero-container {
+    width: 90%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.hero-info{
+    margin: 1rem 0;
+}
+
+.hero-other {
+    margin: 1rem 0;
+}
+
+.hero-pairing-container,
+.hero-talents-container,
+.hero-pet-container,
+.hero-artifact-container,
+.hero-facts-container {
+    padding: 0.5rem;
+}
+
+
+footer {
+    height: 100px;
+}
