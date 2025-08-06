@@ -35,10 +35,15 @@ header {
     width: 90%;
     max-width: 1024px;
     margin: 0 auto;
+
 }
 
-.hero-info{
+.hero-info {
     margin: 1rem 0;
+    border: 1px solid #333;
+    border-radius: .5rem;
+    padding: .5rem;
+    /* max-width: 500px; */
 }
 
 .hero-snippet {
@@ -62,6 +67,11 @@ header {
     border: 1px solid black;
     padding: .25rem .5rem;
     font-weight: 700;
+    color: #ececec;
+    border-radius: 10%;
+}
+.hero-specialization {
+    text-transform: uppercase;
 }
 
 .hero-release {
@@ -69,6 +79,7 @@ header {
     border: 1px solid black;
     padding: .25rem .5rem;
     font-weight: 700;
+    border-radius: 10%;
 }
 
 .hero-pairing-container,
