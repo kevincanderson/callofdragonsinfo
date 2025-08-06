@@ -16,8 +16,13 @@ body {
 }
 
 header {
-    height: 100px;
-    margin: 1rem 0;
+    margin: 1rem auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    max-width: 1024px;
 }
 
 .divider {
@@ -36,19 +41,55 @@ header {
     margin: 1rem 0;
 }
 
+.hero-snippet {
+    margin: 1rem 0;
+}
+
 .hero-other {
     margin: 1rem 0;
+}
+
+.hero-info-below,
+.hero-info-above {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero-rarity {
+    background-color: purple;
+    border: 1px solid black;
+    padding: .25rem .5rem;
+    font-weight: 700;
+}
+
+.hero-release {
+    background-color: gold;
+    border: 1px solid black;
+    padding: .25rem .5rem;
+    font-weight: 700;
 }
 
 .hero-pairing-container,
 .hero-talents-container,
 .hero-pet-container,
 .hero-artifact-container,
-.hero-facts-container {
+.hero-facts-container,
+.hero-skills-container {
     padding: 0.5rem;
 }
 
 
+.hero-pet-recommend {
+    margin: 1rem 0;
+}
+
+.hero-other * {
+    margin: 0.5rem 0;
+}
+
 footer {
     height: 100px;
 }
+
